@@ -1,0 +1,15 @@
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\bin\Debug\Marea Teroare.exe.config
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\bin\Debug\Marea Teroare.exe
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\bin\Debug\Marea Teroare.pdb
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea Teroare.csprojAssemblyReference.cache
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea_Teroare.Properties.Resources.resources
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea Teroare.csproj.GenerateResource.cache
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea Teroare.csproj.CoreCompileInputs.cache
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea Teroare.exe
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea Teroare.pdb
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea_Teroare.frmMain.resources
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Interop.MediaPlayer.dll
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Interop.WMPDXMLib.dll
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Interop.WMPLib.dll
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Marea Teroare.csproj.ResolveComReference.cache
+C:\INFO\A_VisualStudio\Marea Teroare\Marea Teroare\obj\Debug\Interop.WMLSS.dll
